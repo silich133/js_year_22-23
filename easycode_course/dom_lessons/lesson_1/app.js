@@ -5,7 +5,7 @@ console.dir(div_el);
 
 //To array methods:
 // console.log(Array.from(titles));
-// console.log([...titles]);
+console.log([...titles]);
 
 //classList
 div_el.classList.add("article", "custom");
